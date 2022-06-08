@@ -1,4 +1,12 @@
 body{
-    background-color: azure;
+    background-color: rgb(87, 192, 192);
 
+}
+
+.container {
+    padding: 0 2rem;
+}
+
+img {
+    width: 100%;
 }
